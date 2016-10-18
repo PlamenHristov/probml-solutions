@@ -1,2 +1,2 @@
 # probml-solutions
-Python code for "Machine learning: a probabilistic perspective"
+Solutions to exercises in "Machine learning: a probabilistic perspective"
